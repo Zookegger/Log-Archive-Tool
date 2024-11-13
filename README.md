@@ -8,7 +8,7 @@ This is a Command-line Bash script designed to archive system logs from a specif
 ### Command
 Run the tool from the command line, providing the log directory as an argument:
 ```Bash
-./log-archive.sh <log-directory>
+bash log-archive.sh <log-directory>
 ```
 
 This project is part of [roadmap.sh](https://roadmap.sh/projects/log-archive-tool) DevOps projects
